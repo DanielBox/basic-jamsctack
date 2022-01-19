@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  background-color: #FFF3D0;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 5rem;
+  font-size: 3rem;
+}
+h1 .svg-inline--fa {
+  color: #db0404;
+}
+
+p {
+  color: #777;
+}/*# sourceMappingURL=style.css.map */
